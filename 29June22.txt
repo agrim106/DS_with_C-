@@ -1,0 +1,5 @@
+This statement informs the compiler that it wants to use the std namespace
+	1)the purpoe of namespace is to avoid name collisions.
+	2)this is done by localising the names of the indentifier
+	3)it creates a declarative region and defines a scope
+	4)anything define within the namespace falls within the scope of namespace.
